@@ -1,0 +1,254 @@
+{
+  "Typography": {
+    "KR": {
+      "Display": {
+        "03_Bold": {
+          "value": {
+            "fontFamily": "Pretendard",
+            "fontWeight": "Bold",
+            "lineHeight": "42",
+            "fontSize": "32",
+            "letterSpacing": "0"
+          },
+          "type": "typography"
+        },
+        "02_Bold": {
+          "value": {
+            "fontFamily": "Pretendard",
+            "fontWeight": "Bold",
+            "lineHeight": "38",
+            "fontSize": "28",
+            "letterSpacing": "0"
+          },
+          "type": "typography"
+        },
+        "01_Bold": {
+          "value": {
+            "fontFamily": "{KR.Pretendard}",
+            "fontWeight": "Bold",
+            "lineHeight": "32",
+            "fontSize": "24",
+            "letterSpacing": "0"
+          },
+          "type": "typography"
+        }
+      },
+      "Headline": {
+        "02_Bold": {
+          "value": {
+            "fontFamily": "{KR.Pretendard}",
+            "fontWeight": "{700}",
+            "lineHeight": "28",
+            "fontSize": "20",
+            "letterSpacing": "0"
+          },
+          "type": "typography"
+        },
+        "02_SemiBold": {
+          "value": {
+            "fontFamily": "{KR.Pretendard}",
+            "fontWeight": "{600}",
+            "lineHeight": "28",
+            "fontSize": "20",
+            "letterSpacing": "0"
+          },
+          "type": "typography"
+        },
+        "02": {
+          "value": {
+            "fontFamily": "{KR.Pretendard}",
+            "lineHeight": "28",
+            "fontSize": "20",
+            "letterSpacing": "0"
+          },
+          "type": "typography"
+        },
+        "01_Bold": {
+          "value": {
+            "fontFamily": "{KR.Pretendard}",
+            "lineHeight": "24",
+            "fontSize": "18",
+            "letterSpacing": "0",
+            "fontWeight": "{700}"
+          },
+          "type": "typography"
+        },
+        "01_SemiBold": {
+          "value": {
+            "fontFamily": "{KR.Pretendard}",
+            "lineHeight": "24",
+            "fontSize": "18",
+            "letterSpacing": "0",
+            "fontWeight": "SemiBold"
+          },
+          "type": "typography"
+        },
+        "01": {
+          "value": {
+            "fontFamily": "{KR.Pretendard}",
+            "lineHeight": "24",
+            "fontSize": "18",
+            "letterSpacing": "0"
+          },
+          "type": "typography"
+        }
+      },
+      "Subhead": {
+        "03_Bold": {
+          "value": {
+            "fontFamily": "{KR.Pretendard}",
+            "lineHeight": "24",
+            "fontSize": "16",
+            "letterSpacing": "0",
+            "fontWeight": "{700}"
+          },
+          "type": "typography"
+        },
+        "03_SemiBold": {
+          "value": {
+            "fontFamily": "{KR.Pretendard}",
+            "lineHeight": "24",
+            "fontSize": "16",
+            "letterSpacing": "0",
+            "fontWeight": "{600}"
+          },
+          "type": "typography"
+        },
+        "03": {
+          "value": {
+            "fontFamily": "{KR.Pretendard}",
+            "lineHeight": "24",
+            "fontSize": "16",
+            "letterSpacing": "0"
+          },
+          "type": "typography"
+        },
+        "02_Bold": {
+          "value": {
+            "fontFamily": "{KR.Pretendard}",
+            "lineHeight": "20",
+            "letterSpacing": "0",
+            "fontWeight": "{700}",
+            "fontSize": "14"
+          },
+          "type": "typography"
+        },
+        "02_SemiBold": {
+          "value": {
+            "fontFamily": "{KR.Pretendard}",
+            "lineHeight": "20",
+            "letterSpacing": "0",
+            "fontWeight": "{600}",
+            "fontSize": "14"
+          },
+          "type": "typography"
+        },
+        "01_Bold": {
+          "value": {
+            "fontFamily": "{KR.Pretendard}",
+            "lineHeight": "18",
+            "letterSpacing": "0",
+            "fontWeight": "{700}",
+            "fontSize": "12"
+          },
+          "type": "typography"
+        },
+        "01_SemiBold": {
+          "value": {
+            "fontFamily": "{KR.Pretendard}",
+            "lineHeight": "18",
+            "letterSpacing": "0",
+            "fontWeight": "{600}",
+            "fontSize": "12"
+          },
+          "type": "typography"
+        }
+      },
+      "Body": {
+        "03_M": {
+          "value": {
+            "fontFamily": "{KR.Pretendard}",
+            "fontWeight": "Medium",
+            "lineHeight": "24",
+            "fontSize": "16"
+          },
+          "type": "typography"
+        },
+        "03_R": {
+          "value": {
+            "fontFamily": "{KR.Pretendard}",
+            "fontWeight": "{400}",
+            "lineHeight": "24",
+            "fontSize": "16"
+          },
+          "type": "typography"
+        },
+        "03long_M": {
+          "value": {
+            "fontFamily": "{KR.Pretendard}",
+            "fontWeight": "Medium",
+            "lineHeight": "28",
+            "fontSize": "16"
+          },
+          "type": "typography"
+        },
+        "02_M": {
+          "value": {
+            "fontFamily": "{KR.Pretendard}",
+            "fontWeight": "{500}",
+            "lineHeight": "20",
+            "fontSize": "14"
+          },
+          "type": "typography"
+        },
+        "02_R": {
+          "value": {
+            "fontFamily": "{KR.Pretendard}",
+            "fontWeight": "{400}",
+            "lineHeight": "20",
+            "fontSize": "14"
+          },
+          "type": "typography"
+        },
+        "02long_M": {
+          "value": {
+            "fontFamily": "{KR.Pretendard}",
+            "fontWeight": "{500}",
+            "lineHeight": "25",
+            "fontSize": "14"
+          },
+          "type": "typography"
+        },
+        "02long_R": {
+          "value": {
+            "fontFamily": "{KR.Pretendard}",
+            "fontWeight": "{400}",
+            "lineHeight": "25",
+            "fontSize": "14"
+          },
+          "type": "typography"
+        }
+      },
+      "Caption": {
+        "01_M": {
+          "value": {
+            "fontFamily": "{KR.Pretendard}",
+            "fontWeight": "{500}",
+            "lineHeight": "18",
+            "fontSize": "12"
+          },
+          "type": "typography"
+        },
+        "01_R": {
+          "value": {
+            "fontFamily": "{KR.Pretendard}",
+            "fontWeight": "{400}",
+            "lineHeight": "18",
+            "fontSize": "12"
+          },
+          "type": "typography"
+        }
+      }
+    }
+  }
+}

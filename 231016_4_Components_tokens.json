@@ -1,0 +1,232 @@
+{
+  "Components": {
+    "BG": {
+      "Primary": {
+        "value": "{Foundation.Orange.orange-500}",
+        "type": "color"
+      },
+      "Primary_Pressed": {
+        "value": "{Foundation.Orange.orange-600}",
+        "type": "color"
+      },
+      "Secondary": {
+        "value": "{LegacyOrange.010}",
+        "type": "color"
+      },
+      "Secondary_Pressed": {
+        "value": "{LegacyOrange.025}",
+        "type": "color"
+      },
+      "Ghost": {
+        "value": "{White}",
+        "type": "color"
+      },
+      "Ghost_Pressed": {
+        "value": "{Old Gray.010(f5)}",
+        "type": "color"
+      },
+      "Subtle": {
+        "value": "{Foundation.Metalic Grey.metalic grey-50}",
+        "type": "color"
+      },
+      "Subtle_Pressed": {
+        "value": "{Foundation.Metalic Grey.metalic grey-100}",
+        "type": "color"
+      },
+      "Disabled": {
+        "value": "{Old Gray.020(ec)}",
+        "type": "color"
+      },
+      "Placeholder": {
+        "value": "{Old Gray.005}",
+        "type": "color"
+      },
+      "Danger": {
+        "value": "{Foundation.Bright Red.bright red-500}",
+        "type": "color"
+      },
+      "Sucess": {
+        "value": "{Foundation.Sky Blue.sky blue-500}",
+        "type": "color"
+      },
+      "Gray01": {
+        "value": "{Toss Gray.080}",
+        "type": "color"
+      },
+      "Gray02": {
+        "value": "{Foundation.Metalic Grey.metalic grey-800}",
+        "type": "color"
+      },
+      "Gray03": {
+        "value": "{Foundation.Metalic Grey.metalic grey-500}",
+        "type": "color"
+      }
+    },
+    "Text": {
+      "Main": {
+        "value": "{Foundation.Orange.orange-500}",
+        "type": "color"
+      },
+      "Primary": {
+        "value": "{Toss Gray.080}",
+        "type": "color"
+      },
+      "Secondary": {
+        "value": "{Foundation.Metalic Grey.metalic grey-800}",
+        "type": "color"
+      },
+      "Tertiary_": {
+        "value": "{Foundation.Metalic Grey.metalic grey-500}",
+        "type": "color"
+      },
+      "Fourth": {
+        "value": "{Foundation.Metalic Grey.metalic grey-300}",
+        "type": "color"
+      },
+      "On-Color": {
+        "value": "{White}",
+        "type": "color"
+      },
+      "Placeholder": {
+        "value": "{Foundation.Metalic Grey.metalic grey-200}",
+        "type": "color"
+      },
+      "Disabled": {
+        "value": "{Old Gray.040(ce)}",
+        "type": "color"
+      },
+      "Danger": {
+        "value": "{BG.Danger}",
+        "type": "color"
+      },
+      "Sucess": {
+        "value": "{BG.Sucess}",
+        "type": "color"
+      }
+    },
+    "Primary": {
+      "Main": {
+        "value": "{Foundation.Orange.orange-500}",
+        "type": "color"
+      },
+      "Contrast": {
+        "value": "{White}",
+        "type": "color"
+      }
+    },
+    "Icon": {
+      "01": {
+        "value": "{Toss Gray.080}",
+        "type": "color"
+      },
+      "02": {
+        "value": "{Foundation.Metalic Grey.metalic grey-800}",
+        "type": "color"
+      },
+      "03": {
+        "value": "{Toss Gray.060}",
+        "type": "color"
+      },
+      "04": {
+        "value": "{Foundation.Metalic Grey.metalic grey-200}",
+        "type": "color"
+      },
+      "Disabled": {
+        "value": "{Text.Disabled}",
+        "type": "color"
+      }
+    },
+    "Orange": {
+      "value": {
+        "color": "{Foundation.Orange.orange-500}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "Card": {
+      "value": {
+        "color": "{Border.Card}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "image": {
+      "value": {
+        "color": "{Border.Image}",
+        "width": "0.5",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "Divider": {
+      "L": {
+        "value": "{Toss Gray.010}",
+        "type": "color"
+      }
+    },
+    "Chips": {
+      "value": {
+        "color": "{Border.Chips}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "GhostButton": {
+      "value": {
+        "color": "{Border.GhostButton}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "Border": {
+      "Card": {
+        "value": "{Foundation.Metalic Grey.metalic grey-50}",
+        "type": "color"
+      },
+      "Image": {
+        "value": "{Foundation.Metalic Grey.metalic grey-50}",
+        "type": "color"
+      },
+      "GhostButton": {
+        "value": "{Foundation.Navy.navy-50}",
+        "type": "color"
+      },
+      "Chips": {
+        "value": "{Foundation.Navy.navy-50}",
+        "type": "color"
+      },
+      "Danger": {
+        "value": "{Foundation.Bright Red.bright red-500}",
+        "type": "color"
+      },
+      "Sucess": {
+        "value": "{Foundation.Sky Blue.sky blue-500}",
+        "type": "color"
+      },
+      "Main": {
+        "value": "{Foundation.Orange.orange-500}",
+        "type": "color"
+      }
+    },
+    "Danger": {
+      "value": {
+        "color": "{Border.Danger}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "Sucess": {
+      "value": {
+        "color": "{Border.Sucess}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    }
+  }
+}
