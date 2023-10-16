@@ -1,10 +1,10 @@
 {
   "Components": {
     "BG": {
-      "Primary": {
-        "value": "{Foundation.Orange.orange-500}",
-        "type": "color"
-      },
+    "Primary": {
+      "value": "{Foundation.Orange.orange-500}",
+      "type": "color"
+    },
       "Primary_Pressed": {
         "value": "{Foundation.Orange.orange-600}",
         "type": "color"
